@@ -3,10 +3,10 @@
 Minimum Required Java Version: 17
 
 
-### MacOS, Linux, or MINGW Windows
+### MacOS, Linux, or Windows w/Git bash
 - <code>./bin/run.sh</code>
 
-### Windows without Bash/MINGW
+### Windows without Git bash
 - <code>./mvnw clean test package</code>
 - <code>java -jar target/*.jar</code>
 
